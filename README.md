@@ -3,10 +3,10 @@
 
 ## Team Name: TEAM ATLAS
 ### Team Members:
-- Sunny Jubayer
+- Sunny Jubayer - sunnyjubayer04@gmail.com
 - Mir Tanzid Ahmed Dip
 - Mir Sazid Hassan
-- Mir Sadia Afrin
+- Mir Sadia Afrin -sadia.afrin17@northsouth.edu
 - Khandoker Maruf Bin Islam
 
 ## Project Name: SPACE TUBE (A Space Farming Solution)
